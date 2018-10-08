@@ -1,5 +1,5 @@
 # style-guides
-Our programming style guides and best practices
+Code Orange's programming style guides and best practices
 
-- [java-style-guide.md](Java Style Guide)
-- [best-practices.md](Programming Best Practices)
+- [Java Style Guide](java-style-guide.md)
+- [Programming Best Practices](best-practices.md)
